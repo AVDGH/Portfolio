@@ -1,0 +1,8 @@
+{
+    "url": "https://sublime-flux-376518.web.app/",
+    "imageUrl": "https://example.com/project2.jpg",
+    "name": "Neka stranica",
+    "about": "Angular play",
+    "technologies": ["Angular", "Frontend", "Firebase"]
+  }
+
