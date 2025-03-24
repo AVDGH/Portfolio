@@ -1,6 +1,6 @@
 {
     "url": "https://avdgh.github.io/Curves/",
-    "imageUrl": "https://example.com/project2.jpg",
+    "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.natgeofe.com%2Fk%2F52d54f1f-45b3-4eba-9d2f-98c119a17f2c%2Fgecko-tree-closeup-colorful-crop_3x2.jpg&f=1&nofb=1&ipt=a79e4a185b5b1667db0d2eaebaab485f10f99f52c7acec3337262c085f7d8b4e&ipo=images",
     "name": "Curving with CSS and HTML",
     "about": "Making s€xy curves and animation using just CSS and HTML, no frameworks ",
     "technologies": ["CSS", "HTML", "Frontend"]
