@@ -1,0 +1,7 @@
+{
+    "url": "https://www.theblockchaincentral.info",
+    "imageUrl": "https://example.com/project2.jpg",
+    "name": "PortLioFO",
+    "about": "This is a description of Project 2.",
+    "technologies": ["Angular", "Typescript", "dodat"]
+  }

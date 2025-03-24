@@ -1,0 +1,7 @@
+{
+    "url": "https://example.com/project2",
+    "imageUrl": "https://example.com/project2.jpg",
+    "name": "PHMUMS",
+    "about": "PHP user managemnt system",
+    "technologies": ["PHP", "Backend", "hashing", "userautentificatio","AI api call","SQL DB"]
+  }

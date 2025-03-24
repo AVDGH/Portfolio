@@ -1,0 +1,7 @@
+{
+    "url": "https://vedranjoung.itch.io/infinity-drive",
+    "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffriendlypets.com%2Fwp-content%2Fuploads%2F2020%2F04%2FCanva-Leopard-gecko-scaled.jpg&f=1&nofb=1&ipt=eb906a5362b851ce14ccd0565a51360be5fb351e5f81a1c4b93c9b0dd0cd3c93&ipo=images",
+    "name": "Infinity Drive",
+    "about": "Iz kolegija Gem dev smo trebali napraviti igricu",
+    "technologies": ["WebGL", "3D modeling", "Blender","Unity", "Geometry"]
+  }

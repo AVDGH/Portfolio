@@ -1,0 +1,7 @@
+{
+    "url": "https://vedranjoung.itch.io/tenkyou",
+    "imageUrl": "https://example.com/project2.jpg",
+    "name": "TenkYou",
+    "about": "pew pew, One day I was thinking- since im studing CS, i should make a game",
+    "technologies": ["Unity", "WebGL", "C#"]
+  }
