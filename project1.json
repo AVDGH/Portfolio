@@ -1,5 +1,8 @@
-{
-    "name": "Adder",
-    "about": "First program that i made with personal need "
 
-  }
+    {
+      "url": "https://www.theblockchaincentral.com",
+      "imageUrl": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg",
+      "name": "TheBlockChainCentral",
+      "about": "Since I have a domain name, decidet to play aroound with rust. Back i the day I knew that crypto will be valuable. At that time didnt have much money for investing in bitcoin, so i bought part of the infrastrucutre",
+      "technologies": ["Rust", "Yew", "WebAssembly","API"]
+    }

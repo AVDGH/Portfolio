@@ -1,5 +1,7 @@
 {
-    "name": "Adsadasddder",
-    "about": "First asfasprogram that i made with personal need "
-
+    "url": "https://www.theblockchaincentral.info",
+    "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.das-tierlexikon.de%2Fwp-content%2Fuploads%2Ftokay-gecko.jpg&f=1&nofb=1&ipt=b8b773bd086902329e379203b3ddbedfaab189ab90e9d764ae25353d66e91114&ipo=images",
+    "name": "PortLioFO",
+    "about": "This is a description of Project 2.",
+    "technologies": ["Angular", "Typescript", "dodat"]
   }
